@@ -1,0 +1,2 @@
+# Myfirstdjangoapp
+my app
